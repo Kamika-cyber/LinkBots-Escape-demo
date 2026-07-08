@@ -183,7 +183,7 @@ My contributions include:
 
 ### Main Menu
 
-![Main Menu](Images/main-menu.png)
+![Main Menu](main-menu.png)
 
 ### Gameplay
 
