@@ -183,27 +183,27 @@ My contributions include:
 
 ### Main Menu
 
-![Main Menu](main-menu.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Gameplay
 
-*(Add screenshot here)*
+![Gameplay](screenshots/gameplay.png)
 
 ### Special Level
 
-*(Add screenshot here)*
+![Special Level](screenshots/special-level.png)
 
 ### Final Level
 
-*(Add screenshot here)*
+![Final Level](screenshots/final-level.png)
 
 ### Pause Menu
 
-*(Add screenshot here)*
+![Pause Menu](screenshots/pause-menu.png)
 
 ### Skin Shop
 
-*(Add screenshot here)*
+![Skin Shop](screenshots/skin-shop.png)
 
 ---
 
