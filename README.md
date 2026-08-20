@@ -197,9 +197,9 @@ My contributions include:
 
 ![Final Level](screenshots/final-level.png)
 
-### Pause Menu
+### Settings
 
-![Pause Menu](screenshots/pause-menu.png)
+![Pause Menu](screenshots/settings.jpg)
 
 ### Skin Shop
 
