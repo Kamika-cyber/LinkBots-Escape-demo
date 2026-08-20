@@ -203,7 +203,7 @@ My contributions include:
 
 ### Skin Shop
 
-![Skin Shop](screenshots/skin-shop.png)
+![Skin Shop](screenshots/skin-shop.jpg)
 
 ---
 
